@@ -9,20 +9,21 @@
 <h1 align="center">Whatch Me</h1>
 
 <p align="center">
-  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/thiagonmiziara/whatch-me?color=56BEB8">
+  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/thiagonmiziara/todoList?color=56BEB8">
 
-  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/thiagonmiziara/whatch-me?color=56BEB8">
+  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/thiagonmiziara/todoList?color=56BEB8">
 
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/thiagonmiziara/whatch-me?color=56BEB8">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/thiagonmiziara/todoList?color=56BEB8">
 
-  <img alt="Licença" src="https://img.shields.io/github/license/thiagonmiziara/whatch-me?color=56BEB8">
+  <img alt="Licença" src="https://img.shields.io/github/license/thiagonmiziara/todoList?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/thiagonmiziara/whatch-me?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/thiagonmiziara/01-github-explorer?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/thiagonmiziara/whatch-me?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/thiagonmiziara/01-github-explorer?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/thiagonmiziara/whatch-me?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/thiagonmiziara/01-github-explorer?color=56BEB8" /> -->
 </p>
+
 
 <!-- Status -->
 
