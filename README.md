@@ -83,10 +83,10 @@ $ cd whatch-me
 $ yarn
 
 # Para iniciar fake API Json Server
-$ yarn server
+$ yarn server 
 
 # Para iniciar o projeto
-$ yarn dev para front-ende
+$ yarn dev para front-end
 
 # O app vai inicializar em <http://localhost:3000>
 ```
